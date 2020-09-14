@@ -4,7 +4,7 @@
 ![](assets/img/ligth.png)
 
 ### Theme dark
-![](assets/img/ligth.png)
+![](assets/img/dark.png)
 
 ## Tecnologias
 - React.js
